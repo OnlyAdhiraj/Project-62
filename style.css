@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-image: url("https://st3.depositphotos.com/13981642/i/600/depositphotos_187658564-stock-photo-abstract-background-grey-texture.jpg")
+}
+
+.img_class1 {
+    width: 350px;
+    height: 350px;
+    border: solid;
+    border-color: aqua;
+    border-width: 6px;
+}
